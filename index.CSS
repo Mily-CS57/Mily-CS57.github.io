@@ -36,9 +36,10 @@
     margin-left: 25%;
 }
 
-.me{
+div.me{
     margin-left: 20%;
     color: white;
+    text-align: left;
 }
 
 .about{
