@@ -51,6 +51,7 @@ div.me{
 
 .frame{
     justify-content: center;
+    display: flex;
 }
 
 .projectDescription{
@@ -63,6 +64,7 @@ div.me{
 .projectEx{
     text-align: left;
     margin-right: 5%;
+
 }
 
 .projectFrame{
