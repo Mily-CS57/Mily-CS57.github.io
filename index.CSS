@@ -65,13 +65,13 @@ div.me{
 
 .projectFrame1{
     display: flex;
-    justify-content: center;
+    margin-left: 50%;
     padding-left: 10px;
 }
 
 .projectFrame2{
     display: flex;
-    justify-content: center;
+    margin-left: 50%;
     padding-left: 10px;
     padding-bottom: 10px;
 }
